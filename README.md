@@ -83,11 +83,3 @@ With the volume of online user-generated content, moderating conversations has b
 🔹 **Explainable AI (XAI)**: Enhancing transparency in AI decision-making.  
 🔹 **Real-Time Moderation**: Deploying AI models for **live content monitoring**.  
 🔹 **Adversarial Training**: Strengthening robustness against manipulated text inputs.  
-
----
-
-## 📌 How to Use This Project  
-
-### 📥 Clone the Repository  
-```sh
-git clone [GitHub Repository Link Here]
